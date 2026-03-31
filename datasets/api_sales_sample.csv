@@ -1,0 +1,6 @@
+order_id,customer_id,product,price,quantity,date
+2001,801,Laptop,1200,1,2024-01-01
+2002,802,Mouse,25,2,2024-01-02
+2003,803,Keyboard,80,1,2024-01-03
+2004,801,Monitor,300,1,2024-01-04
+2005,804,Headphones,150,1,2024-01-05
